@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Managing Nodeos P2P Peer Connections](https://www.varilink.co.uk/managing-nodeos-p2p-peer-connections/)
+- [Nodeos Blocks Log Stride](https://www.varilink.co.uk/nodeos-blocks-log-stride/)
+- [Nodeos Replays](https://www.varilink.co.uk/nodeos-replays/)
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **varilink/varilink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
