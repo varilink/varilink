@@ -1,0 +1,5 @@
+# My global gitignore settings
+# Make a symbolic link to this file at ~/.config/git/ignore
+
+# Ansible retry files
+*.retry
