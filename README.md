@@ -5,6 +5,7 @@ In this GitHub account I share my work as a Linux and blockchain system administ
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Ansible Roles Using Containers](https://www.varilink.co.uk/testing-ansible-roles-using-containers/)
 - [Managing Nodeos P2P Peer Connections](https://www.varilink.co.uk/managing-nodeos-p2p-peer-connections/)
 - [Nodeos Blocks Log Stride](https://www.varilink.co.uk/nodeos-blocks-log-stride/)
 - [Nodeos Replays](https://www.varilink.co.uk/nodeos-replays/)
