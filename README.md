@@ -75,6 +75,7 @@ Repositories:
 
 - [tools-bacula](https://github.com/varilink/tools-bacula)
 - [tools-exim](https://github.com/varilink/tools-exim)
+- [tools-gimp](https://github.com/varilink/tools-gimp)
 - [tools-npm](https://github.com/varilink/tools-npm)
 - [tools-phpdoc](https://github.com/varilink/tools-phpdoc)
 - [tools-proxy](https://github.com/varilink/tools-proxy)
