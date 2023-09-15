@@ -22,6 +22,7 @@ The Derby Arts and Theatre Association (DATA) is the representative body for ama
 
 Repositories:
 
+- [data-asnsible](https://github.com/varilink/data-ansible)
 - [data-admin](https://github.com/varilink/data-admin)
 - [data-app](https://github.com/varilink/data-app)
 - [data-docker](https://github.com/varilink/data-docker)
@@ -37,6 +38,16 @@ Repositories:
 - [fobv-docker](https://github.com/varilink/fobv-docker)
 - [fobv-wordpress](https://github.com/varilink/fobv-wordpress)
 
+### New Opera Company ###
+
+New Opera Company, Derby, founded in 1959 was the only local company singing grand opera.
+
+Repositories:
+
+- [newopera-ansible](https://github.com/varilink/newopera-ansible)
+- [newopera-docker](https://github.com/varilink/newopera-docker)
+- [newopera-wordpress](https://github.com/varilink/newopera-wordpress)
+
 ### Telos UK
 
 Telos UK is "a Founding Block Producer on the Telos Public Network".
@@ -44,7 +55,6 @@ Telos UK is "a Founding Block Producer on the Telos Public Network".
 Repositories:
 
 - [telos-eosio](https://github.com/varilink/telos-eosio)
-- [telos-hyperion](https://github.com/varilink/telos-hyperion)
 - [telos-phplib](https://github.com/varilink/telos-phplib)
 - [telos-toolbox](https://github.com/varilink/telos-toolbox)
 
@@ -54,7 +64,8 @@ Libraries that are used across multiple of my projects.
 
 Repositories:
 
-- [libraries-ansible](https://github.com/varilink/libraries-ansible)
+- [libraries-ansible_playbooks](https://github.com/varilink/libraries-ansible_playbooks)
+- [libraries-ansible_roles](https://github.com/varilink/libraries-ansible_roles)
 - [libraries-php](https://github.com/varilink/libraries-php)
 - [libraries-wordpress_plugins](https://github.com/varilink/libraries-wordpress_plugins)
 
@@ -73,13 +84,10 @@ Client side tools that I use across multiple projects.
 
 Repositories:
 
-- [tools-bacula](https://github.com/varilink/tools-bacula)
 - [tools-exim](https://github.com/varilink/tools-exim)
 - [tools-gimp](https://github.com/varilink/tools-gimp)
 - [tools-npm](https://github.com/varilink/tools-npm)
-- [tools-phpdoc](https://github.com/varilink/tools-phpdoc)
 - [tools-proxy](https://github.com/varilink/tools-proxy)
-- [tools-sass](https://github.com/varilink/tools-sass)
 - [tools-wordpress](https://github.com/varilink/tools-wordpress)
 
 ### Varilink Computing Ltd (Website)
@@ -89,4 +97,5 @@ The website for Varilink Computing Ltd.
 Repositories:
 
 - [website-ansible](https://github.com/varilink/website-ansible)
+- [website-docker](https://github.com/varilink/website-docker)
 - [website-wordpress](https://github.com/varilink/website-wordpress)
