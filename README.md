@@ -5,11 +5,11 @@ In this GitHub account I share my work as a Linux and blockchain system administ
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Network and DNS in “Services – Docker”](https://www.varilink.co.uk/network-and-dns-in-services-docker/)
-- [Testing Ansible Roles Using Containers](https://www.varilink.co.uk/testing-ansible-roles-using-containers/)
-- [Managing Nodeos P2P Peer Connections](https://www.varilink.co.uk/managing-nodeos-p2p-peer-connections/)
-- [Nodeos Blocks Log Stride](https://www.varilink.co.uk/nodeos-blocks-log-stride/)
-- [Nodeos Replays](https://www.varilink.co.uk/nodeos-replays/)
+- [Network and DNS in “Services – Docker”](https://www.varilink.co.uk/network-and-dns-in-services-docker/?utm_source=rss&utm_medium=rss&utm_campaign=network-and-dns-in-services-docker)
+- [Testing Ansible Roles Using Containers](https://www.varilink.co.uk/testing-ansible-roles-using-containers/?utm_source=rss&utm_medium=rss&utm_campaign=testing-ansible-roles-using-containers)
+- [Managing Nodeos P2P Peer Connections](https://www.varilink.co.uk/managing-nodeos-p2p-peer-connections/?utm_source=rss&utm_medium=rss&utm_campaign=managing-nodeos-p2p-peer-connections)
+- [Nodeos Blocks Log Stride](https://www.varilink.co.uk/nodeos-blocks-log-stride/?utm_source=rss&utm_medium=rss&utm_campaign=nodeos-blocks-log-stride)
+- [Nodeos Replays](https://www.varilink.co.uk/nodeos-replays/?utm_source=rss&utm_medium=rss&utm_campaign=nodeos-replays)
 <!-- BLOG-POST-LIST:END -->
 
 ## Projects
