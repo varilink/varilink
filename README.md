@@ -89,6 +89,7 @@ Repositories:
 - [tools-npm](https://github.com/varilink/tools-npm)
 - [tools-proxy](https://github.com/varilink/tools-proxy)
 - [tools-wordpress](https://github.com/varilink/tools-wordpress)
+- [tools-wordpress_restore](https://github.com/varilink/tools-wordpress_restore)
 
 ### Varilink Computing Ltd (Website)
 
