@@ -40,13 +40,13 @@ Repositories:
 
 ### New Opera Company ###
 
-New Opera Company, Derby, founded in 1959 was the only local company singing grand opera.
+New Opera Company, Derby was founded in 1957 to sing grand opera
 
 Repositories:
 
-- [newopera-ansible](https://github.com/varilink/newopera-ansible)
-- [newopera-docker](https://github.com/varilink/newopera-docker)
-- [newopera-wordpress](https://github.com/varilink/newopera-wordpress)
+- [newopera_ansible](https://github.com/varilink/newopera_ansible)
+- [newopera_docker](https://github.com/varilink/newopera_docker)
+- [newopera_wordpress](https://github.com/varilink/newopera_wordpress)
 
 ### Telos UK
 
