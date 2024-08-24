@@ -64,10 +64,11 @@ Libraries that are used across multiple of my projects.
 
 Repositories:
 
-- [libraries-ansible_playbooks](https://github.com/varilink/libraries-ansible_playbooks)
-- [libraries-ansible_roles](https://github.com/varilink/libraries-ansible_roles)
-- [libraries-php](https://github.com/varilink/libraries-php)
-- [libraries-wordpress_plugins](https://github.com/varilink/libraries-wordpress_plugins)
+- [libraries_ansible-playbooks](https://github.com/varilink/libraries_ansible-playbooks)
+- [libraries_ansible-roles](https://github.com/varilink/libraries_ansible-roles)
+- [libraries_php](https://github.com/varilink/libraries_php)
+- [libraries_wordpress-plugins](https://github.com/varilink/libraries_wordpress-plugins)
+- [libraries_wp-cli-scripts](https://github.com/varilink/libraries_wp-cli-scripts)
 
 ### Varilink Computing Ltd (Services)
 
