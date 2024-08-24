@@ -76,8 +76,8 @@ Services such as backup, mail, etc. deployed across the Varilink Computing Ltd s
 
 Repositories:
 
-- [services-ansible](https://github.com/varilink/services-ansible)
-- [services-docker](https://github.com/varilink/services-docker)
+- [services_ansible](https://github.com/varilink/services_ansible)
+- [services_docker](https://github.com/varilink/services_docker)
 
 ### Varilink Computing Ltd (Tools)
 
