@@ -97,6 +97,6 @@ The website for Varilink Computing Ltd.
 
 Repositories:
 
-- [website-ansible](https://github.com/varilink/website-ansible)
-- [website-docker](https://github.com/varilink/website-docker)
-- [website-wordpress](https://github.com/varilink/website-wordpress)
+- [website_ansible](https://github.com/varilink/website_ansible)
+- [website_docker](https://github.com/varilink/website_docker)
+- [website_wordpress](https://github.com/varilink/website_wordpress)
