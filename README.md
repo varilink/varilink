@@ -85,12 +85,16 @@ Client side tools that I use across multiple projects.
 
 Repositories:
 
-- [tools-exim](https://github.com/varilink/tools-exim)
-- [tools-gimp](https://github.com/varilink/tools-gimp)
-- [tools-npm](https://github.com/varilink/tools-npm)
-- [tools-proxy](https://github.com/varilink/tools-proxy)
-- [tools-wordpress](https://github.com/varilink/tools-wordpress)
-- [tools-wordpress_restore](https://github.com/varilink/tools-wordpress_restore)
+- [tools_bconsole](https://github.com/varilink/tools_bconsole)
+- [tools_exim](https://github.com/varilink/tools_exim)
+- [tools_gimp](https://github.com/varilink/tools_gimp)
+- [tools_host-user](https://github.com/varilink/tools_host-user)
+- [tools_npm](https://github.com/varilink/tools_npm)
+- [tools_proxy](https://github.com/varilink/tools_proxy)
+- [tools_ssh-client](https://github.com/varilink/tools_ssh-client)
+- [tools_wordpress](https://github.com/varilink/tools_wordpress)
+- [tools_wordpress-make-backup](https://github.com/varilink/tools_wordpress-make-backup)
+- [tools_wordpress-restore](https://github.com/varilink/tools_wordpress-restore)
 
 ### Varilink Computing Ltd (Website)
 
