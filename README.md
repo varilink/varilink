@@ -22,11 +22,11 @@ The Derby Arts and Theatre Association (DATA) is the representative body for ama
 
 Repositories:
 
-- [data-asnsible](https://github.com/varilink/data-ansible)
-- [data-admin](https://github.com/varilink/data-admin)
-- [data-app](https://github.com/varilink/data-app)
-- [data-docker](https://github.com/varilink/data-docker)
-- [data-web](https://github.com/varilink/data-web)
+- [data_admin](https://github.com/varilink/data_admin)
+- [data_ansible](https://github.com/varilink/data_ansible)
+- [data_app](https://github.com/varilink/data_app)
+- [data_docker](https://github.com/varilink/data_docker)
+- [data_web](https://github.com/varilink/data_web)
 
 ### The Friends of Bennerley Viaduct
 
