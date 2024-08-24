@@ -54,9 +54,9 @@ Telos UK is "a Founding Block Producer on the Telos Public Network".
 
 Repositories:
 
-- [telos-eosio](https://github.com/varilink/telos-eosio)
-- [telos-phplib](https://github.com/varilink/telos-phplib)
-- [telos-toolbox](https://github.com/varilink/telos-toolbox)
+- [telos_eosio](https://github.com/varilink/telos_eosio)
+- [telos_phplib](https://github.com/varilink/telos_phplib)
+- [telos_toolbox](https://github.com/varilink/telos_toolbox)
 
 ### Varilink Computing Ltd (Libraries)
 
