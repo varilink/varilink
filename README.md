@@ -34,9 +34,9 @@ The Friends of Bennerley Viaduct (FoBV) are "Dedicated to restoring, conserving 
 
 Repositories:
 
-- [fobv-ansible](https://github.com/varilink/fobv-ansible)
-- [fobv-docker](https://github.com/varilink/fobv-docker)
-- [fobv-wordpress](https://github.com/varilink/fobv-wordpress)
+- [fobv_ansible](https://github.com/varilink/fobv_ansible)
+- [fobv_docker](https://github.com/varilink/fobv_docker)
+- [fobv_wordpress](https://github.com/varilink/fobv_wordpress)
 
 ### New Opera Company ###
 
